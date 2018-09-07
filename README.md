@@ -1,2 +1,3 @@
 # gopher
-functional programming codes
+A repository of  pugopher codes for functional programming.
+
